@@ -3,6 +3,7 @@ com\abelardo\springwebapp\SpringwebappApplication.class
 com\abelardo\springwebapp\model\Book.class
 com\abelardo\springwebapp\repositories\AuthorRepository.class
 com\abelardo\springwebapp\model\Publisher.class
+com\abelardo\springwebapp\controllers\BookController.class
 com\abelardo\springwebapp\repositories\PublisherRepository.class
 com\abelardo\springwebapp\bootstrap\DevBootstrap.class
 com\abelardo\springwebapp\repositories\BookRepository.class
